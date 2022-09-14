@@ -1,7 +1,7 @@
 ```
 
-git clone https://github.com/NKD404/404
-cd BXI
+git clone https://github.com/NILL404/404
+cd 404
 chmod +x bxii
 python bxi
 
