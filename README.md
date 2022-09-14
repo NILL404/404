@@ -1,4 +1,8 @@
-- `rm -rf BXI`
-- `git clone https://github.com/AKING110/BXI.git`
-- `cd BXI`
-- `python bxi`
+```
+
+git clone https://github.com/NKD404/404
+cd BXI
+chmod +x bxii
+python bxi
+
+```
